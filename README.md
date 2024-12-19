@@ -2,7 +2,7 @@
 ### This project performs an in-depth analysis of YouTube data using Python. The dataset provides insights into various YouTube channels, including their view counts, likes, dislikes, and more. The analysis is visualized using charts to reveal patterns and trends within the data.
 
 <img height="500" width="500" src="https://github.com/sahilgupta245/YouTube-Data-Analysis-Using-Python/blob/main/youtube%20data%20analysis%20.png" />
-.
+
 ## Technologies Used:
 ### -> Python
 ### -> Pandas
@@ -45,14 +45,14 @@
 ### - Top 6 Most Viewed Channels
 
 <img height="500" width="700" src="https://github.com/sahilgupta245/YouTube-Data-Analysis-Using-Python/blob/main/top%206%20viewed%20channels.png" />
-.
-Top 6 Most Liked Channels
+
+### -> Top 6 Most Liked Channels
 
 <img height="500" width="700" src="https://github.com/sahilgupta245/YouTube-Data-Analysis-Using-Python/blob/main/top%206%20disliked%20channels.png" />
-.
-Top 6 Most Disliked Channels
+
+### -> Top 6 Most Disliked Channels
 
 <img height="500" width="700" src="https://github.com/sahilgupta245/YouTube-Data-Analysis-Using-Python/blob/main/top%206%20disliked%20channels.png" />
-.
+
 ## Contributions:
 ### -> Feel free to fork this repository, make changes, and create a pull request.
